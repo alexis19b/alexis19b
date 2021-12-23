@@ -3,7 +3,7 @@
 
 <h4 align="center"> Soy Ingeniero en infórmatica, apasionado por el desarrollo web, y por el desarrollo con nuevas tecnologías... me encanta Javascript😎 </h4>
 
-- 🌱 Soy autodidacta y me gusta aprender constantemente, actualmente estoy aprendiendo **Node & Express**
+- 🌱 Soy autodidacta y me gusta aprender constantemente, actualmente estoy aprendiendo **Nest.js**
 
 - 👨‍💻 Puedes ver mis proyectos en: [https://alexis19b.github.io/landingpage/Portafolio/](https://alexis19b.github.io/landingpage/Portafolio/)
 
