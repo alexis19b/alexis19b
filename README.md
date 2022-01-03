@@ -7,7 +7,7 @@
 
 - 👨‍💻 Puedes ver mis proyectos en: [https://alexis19b.github.io/landingpage/Portafolio/](https://alexis19b.github.io/landingpage/Portafolio/)
 
-- 💬 Me puedes preguntar sobre: **Javascript, React, Typescript, Css, Material UI, Html, Firebase**
+- 💬 Me puedes preguntar sobre: **Javascript, React, Typescript, Node, Express,  Css, Material UI, MongoDB**
 
 - 📫 Me puedes contactar por mi email **ingjesusalexis@gmail.com**
 
